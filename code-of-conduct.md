@@ -1,4 +1,3 @@
-CONTRIBUTOR CODE
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
